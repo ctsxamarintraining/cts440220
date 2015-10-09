@@ -1,0 +1,5 @@
+/Users/adil/Projects/ArrayEx4/ArrayEx4/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/adil/Projects/ArrayEx4/ArrayEx4/bin/Debug/ArrayEx4.exe.mdb
+/Users/adil/Projects/ArrayEx4/ArrayEx4/bin/Debug/ArrayEx4.exe
+/Users/adil/Projects/ArrayEx4/ArrayEx4/obj/x86/Debug/ArrayEx4.exe
+/Users/adil/Projects/ArrayEx4/ArrayEx4/obj/x86/Debug/ArrayEx4.exe.mdb
