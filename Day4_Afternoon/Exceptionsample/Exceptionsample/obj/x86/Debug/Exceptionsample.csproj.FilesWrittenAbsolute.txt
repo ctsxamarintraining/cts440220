@@ -1,0 +1,5 @@
+/Users/adil/Projects/Exceptionsample/Exceptionsample/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/adil/Projects/Exceptionsample/Exceptionsample/bin/Debug/Exceptionsample.exe.mdb
+/Users/adil/Projects/Exceptionsample/Exceptionsample/bin/Debug/Exceptionsample.exe
+/Users/adil/Projects/Exceptionsample/Exceptionsample/obj/x86/Debug/Exceptionsample.exe
+/Users/adil/Projects/Exceptionsample/Exceptionsample/obj/x86/Debug/Exceptionsample.exe.mdb
