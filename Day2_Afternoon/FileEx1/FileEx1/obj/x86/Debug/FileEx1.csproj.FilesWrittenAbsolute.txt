@@ -1,0 +1,5 @@
+/Users/adil/Projects/FileEx1/FileEx1/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/adil/Projects/FileEx1/FileEx1/bin/Debug/FileEx1.exe.mdb
+/Users/adil/Projects/FileEx1/FileEx1/bin/Debug/FileEx1.exe
+/Users/adil/Projects/FileEx1/FileEx1/obj/x86/Debug/FileEx1.exe
+/Users/adil/Projects/FileEx1/FileEx1/obj/x86/Debug/FileEx1.exe.mdb

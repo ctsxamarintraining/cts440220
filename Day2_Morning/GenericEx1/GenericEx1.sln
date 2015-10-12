@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericEx1", "GenericEx1\GenericEx1.csproj", "{3CB7E5B8-496C-480D-B533-1924D44D1014}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CB7E5B8-496C-480D-B533-1924D44D1014}.Debug|x86.ActiveCfg = Debug|x86
+		{3CB7E5B8-496C-480D-B533-1924D44D1014}.Debug|x86.Build.0 = Debug|x86
+		{3CB7E5B8-496C-480D-B533-1924D44D1014}.Release|x86.ActiveCfg = Release|x86
+		{3CB7E5B8-496C-480D-B533-1924D44D1014}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

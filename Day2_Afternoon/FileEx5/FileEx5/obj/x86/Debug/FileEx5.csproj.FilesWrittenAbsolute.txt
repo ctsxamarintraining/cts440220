@@ -1,0 +1,6 @@
+/Users/adil/Projects/FileEx5/FileEx5/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/adil/Projects/FileEx5/FileEx5/bin/Debug/FileEx5.exe.mdb
+/Users/adil/Projects/FileEx5/FileEx5/bin/Debug/FileEx5.exe
+/Users/adil/Projects/FileEx5/FileEx5/obj/x86/Debug/FileEx5.exe
+/Users/adil/Projects/FileEx5/FileEx5/obj/x86/Debug/FileEx5.exe.mdb
+/Users/adil/Projects/FileEx5/FileEx5/bin/Debug/Newtonsoft.Json.dll
