@@ -1,0 +1,5 @@
+/Users/adil/Projects/AnonymousTypeEx1/AnonymousTypeEx1/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/adil/Projects/AnonymousTypeEx1/AnonymousTypeEx1/bin/Debug/AnonymousTypeEx1.exe.mdb
+/Users/adil/Projects/AnonymousTypeEx1/AnonymousTypeEx1/bin/Debug/AnonymousTypeEx1.exe
+/Users/adil/Projects/AnonymousTypeEx1/AnonymousTypeEx1/obj/x86/Debug/AnonymousTypeEx1.exe
+/Users/adil/Projects/AnonymousTypeEx1/AnonymousTypeEx1/obj/x86/Debug/AnonymousTypeEx1.exe.mdb

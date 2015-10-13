@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousTypeEx1", "AnonymousTypeEx1\AnonymousTypeEx1.csproj", "{4CD898E7-E4CD-49F5-BC5E-42F8DC5B052D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CD898E7-E4CD-49F5-BC5E-42F8DC5B052D}.Debug|x86.ActiveCfg = Debug|x86
+		{4CD898E7-E4CD-49F5-BC5E-42F8DC5B052D}.Debug|x86.Build.0 = Debug|x86
+		{4CD898E7-E4CD-49F5-BC5E-42F8DC5B052D}.Release|x86.ActiveCfg = Release|x86
+		{4CD898E7-E4CD-49F5-BC5E-42F8DC5B052D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
