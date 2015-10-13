@@ -15,7 +15,7 @@ namespace ExceptionEx2
 				string filepath ;
 				Console.Write("Enter full file path : ");
 				filepath = Console.ReadLine();
-				Console.WriteLine("The contents of file are :\n" +File.ReadAllText(filepath));
+				Console.WriteLine("The contents of file are :\n" +File.ReadAllText(@filepath));
 			}
 			catch(FormatException e){
 				Console.WriteLine (e.Message);
