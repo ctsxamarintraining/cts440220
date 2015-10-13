@@ -10,22 +10,22 @@ namespace Exceptionsample
 			int i = 0;
 			do {
 				try{
-					Console.WriteLine("Enter an integer");
+					Console.Write("Please add a number to array : ");
 					int ele = Convert.ToInt32(Console.ReadLine());
 					intArray[i++] = ele;
 					int j = 0;
 					string commaSepString = "";
-					foreach (int arrEle in intArray){
+					for(int k=0;k<i; k++){
 						if(j==0){
 							j++;
-							commaSepString = commaSepString+arrEle;
+							commaSepString = commaSepString+intArray[k];
 						}
 						else
-							commaSepString = commaSepString + "," + arrEle ;
+							commaSepString = commaSepString + "," + intArray[k] ;
 						
 						
 					}
-					Console.WriteLine("The array elements are : "+commaSepString);
+					Console.WriteLine("The numbers in the array : "+commaSepString);
 
 				}
 				catch(IndexOutOfRangeException e){
@@ -37,9 +37,7 @@ namespace Exceptionsample
 				catch(Exception e){
 					Console.WriteLine(e.Message);
 				}
-				finally{
-					Console.WriteLine("finally block");
-				}
+
 			} while(true);
 		}
 	}
