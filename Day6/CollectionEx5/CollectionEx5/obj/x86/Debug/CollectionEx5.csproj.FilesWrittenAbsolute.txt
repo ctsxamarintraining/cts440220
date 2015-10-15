@@ -1,0 +1,5 @@
+/Users/adil/Projects/CollectionEx5/CollectionEx5/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/adil/Projects/CollectionEx5/CollectionEx5/bin/Debug/CollectionEx5.exe.mdb
+/Users/adil/Projects/CollectionEx5/CollectionEx5/bin/Debug/CollectionEx5.exe
+/Users/adil/Projects/CollectionEx5/CollectionEx5/obj/x86/Debug/CollectionEx5.exe
+/Users/adil/Projects/CollectionEx5/CollectionEx5/obj/x86/Debug/CollectionEx5.exe.mdb
